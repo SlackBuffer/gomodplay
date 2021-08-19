@@ -1,0 +1,4 @@
+github.com/rselbach/testmod v1.0.1 h1:XfaEWhD3evfziSL7rkYcmEwnlkb4FGOWDMt+hxChBbw=
+github.com/rselbach/testmod v1.0.1/go.mod h1:UVhi5McON9ZLc5kl5iN2bTXlL6ylcxE9VInV71RrlO8=
+github.com/rselbach/testmod/v2 v2.0.0 h1:+RU4PNndZAZZ9MZOGIjCPvvirbM0Y22CSGvO3/9y9OU=
+github.com/rselbach/testmod/v2 v2.0.0/go.mod h1:O7DRg4XoAh4ljAeTFUHqg7gja2sVut+DysXxj2QXBz0=
